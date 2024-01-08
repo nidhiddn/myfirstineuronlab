@@ -1,8 +1,6 @@
 import os
 from pathlib import Path
 
-#print(Path("a\\b\\c.txt"))
-
 list_of_files = [
   ".github/workflows/.gitkeep",
   "src/__init__.py",
